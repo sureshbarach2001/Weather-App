@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshbarach2001&label=Profile%20views&color=0e75b6&style=flat" alt="sureshbarach2001" /> </p>
-![image](https://github.com/user-attachments/assets/c4e69e21-a6bd-49be-8234-7431617bce41)
+
+![image](https://github.com/user-attachments/assets/33b7ff80-ece0-4a24-8489-0832864a929a)
+
 
 ![image](https://github.com/user-attachments/assets/e538d9f0-a52e-455b-9d83-d1491340ef77)
 
