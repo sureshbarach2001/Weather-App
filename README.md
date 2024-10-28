@@ -43,10 +43,17 @@
     <!-- Add additional icons here as needed -->
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sureshbarach2001&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<h3>📋 Instructions</h3>
 
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sureshbarach2001&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+### Prerequisites
+
+Ensure you have the following installed on your machine:
+- [Node.js](https://nodejs.org/) (v14 or higher)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- Any additional dependencies listed in `package.json`
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/repository.git
