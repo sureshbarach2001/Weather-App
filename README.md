@@ -59,12 +59,11 @@ Ensure you have the following installed on your machine:
    git clone https://github.com/username/repository.git
    cd Weather-App
 2. Manual Docker Setup
--Build the Docker Image:
+- Build the Docker Image:
     ```bash
-    docker run -it -d -p system-port:80 your-preferred-image-name
     docker build -t your-preferred-image-name .
--Run the Docker Container:
-
+- Run the Docker Container:
+     ```bash
     docker run -it -d -p system-port:80 your-preferred-image-name
 <p>Replace system-port with your chosen port (e.g., 4000).</p>
 
